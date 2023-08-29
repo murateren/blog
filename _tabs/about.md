@@ -14,20 +14,38 @@ order: 4
 - Research Area: &ensp; **Multimodal Recognition**, ...
   
 # Links
-- [Github](https://github.com/Zoooooone)
-- [Leetcode](https://leetcode.com/isi2023/)
-- [Bilibili](https://space.bilibili.com/19356816?spm_id_from=333.1007.0.0)
+- <i class="fa-brands fa-github fa-fw"></i> &ensp; [Github](https://github.com/Zoooooone)
+- <i class="fa-solid fa-laptop-code fa-fw"></i> &ensp; [Leetcode](https://leetcode.com/isi2023/)
+- <i class="fa-brands fa-bilibili fa-fw"></i> &ensp; [Bilibili](https://space.bilibili.com/19356816?spm_id_from=333.1007.0.0)
 - ...
 
 # Hobbies
-- Coding
-- Gaming
-- Video Editing
-- Cooking
-- Guitar playing
-- Football
-- ...
+<div>
+<ul>
+    <li>
+        <i class="fa-solid fa-laptop-code fa-fw"></i> &ensp; Coding
+    </li>
+    <li>
+        <i class="fa-brands fa-steam fa-fw"></i> &ensp; Gaming
+    </li>
+    <li>
+        <i class="fa-solid fa-clapperboard fa-fw"></i> &ensp; Video Editing
+    </li>
+    <li>
+        <i class="fa-solid fa-bowl-food fa-fw"></i> &ensp; Cooking
+    </li>
+    <li>
+        <i class="fa-solid fa-guitar fa-fw"></i> &ensp; Guitar Playing
+    </li>
+    <li>
+        <i class="fa-solid fa-futbol fa-fw"></i> &ensp; Football
+    </li> 
+    <li>
+        ...
+    </li> 
+</ul>
+</div>
 
 # Contact
-- E-mail: ziheng-chen@isi.imi.i.u-tokyo.ac.jp
-- [Linkedin](https://www.linkedin.com/in/ziheng-chen-572356285/)
+- <i class="fa-regular fa-envelope fa-fw"></i> &ensp; ziheng-chen@isi.imi.i.u-tokyo.ac.jp
+- <i class="fa-brands fa-linkedin fa-fw"></i> &ensp; [Linkedin](https://www.linkedin.com/in/ziheng-chen-572356285/)
