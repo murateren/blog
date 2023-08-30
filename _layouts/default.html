@@ -30,14 +30,23 @@ layout: compress
       </div>
     </div>
 
-    <div id="vcomments"></div>
+    <div id="vcomments" class="container px-xxl-5"></div>
     <script>
         new Valine({
             el: '#vcomments',
-            appId: v6Oa2UwhnPkeDiLzIN52hQZG-gzGzoHsz,
-            appKey: yGlrqPTv2bIvcK8dhJWBSuUt
+            appId: 'v6Oa2UwhnPkeDiLzIN52hQZG-gzGzoHsz',
+            appKey: 'yGlrqPTv2bIvcK8dhJWBSuUt',
         })
     </script>
+
+    <style>
+      #vcomments {
+        width: 100%;
+        max-width: 950px; 
+        height: 450px;
+        margin-left: 16.5rem; 
+      }
+    </style>
 
     {% include_cached footer.html lang=lang %}
 
