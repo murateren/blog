@@ -30,23 +30,38 @@ layout: compress
       </div>
     </div>
 
-    <div id="vcomments" class="container px-xxl-5"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'v6Oa2UwhnPkeDiLzIN52hQZG-gzGzoHsz',
-            appKey: 'yGlrqPTv2bIvcK8dhJWBSuUt',
-        })
-    </script>
+    {% if page.comments %}
+      <div id="vcomments-wrapper">
+        <div id="vcomments"></div>
+        <script>
+            new Valine({
+                el: '#vcomments',
+                appId: 'v6Oa2UwhnPkeDiLzIN52hQZG-gzGzoHsz',
+                appKey: 'yGlrqPTv2bIvcK8dhJWBSuUt',
+                avatar: 'mp',
+                meta: ['nick', 'mail'],
+                pageSize: 10,
+                highlight: true,
+                placeholder: '说点什么吧...',
+                path: window.location.pathname,
+                visitor: true,
+            })
+        </script>
+      </div>
 
-    <style>
-      #vcomments {
-        width: 100%;
-        max-width: 950px; 
-        height: 450px;
-        margin-left: 16.5rem; 
-      }
-    </style>
+      <style>
+        #vcomments-wrapper {
+          margin-top: -50px; /* 设置上方外部间距 */
+          margin-bottom: 80px; /* 设置下方外部间距 */
+          margin-left: 320px;
+        }
+        #vcomments {
+          width: 100%;
+          max-width: 845px; 
+          height: 100%;
+        }
+      </style>
+    {% endif %}
 
     {% include_cached footer.html lang=lang %}
 
