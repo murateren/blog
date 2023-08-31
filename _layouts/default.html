@@ -32,7 +32,7 @@ layout: compress
 
     {% if page.comments %}
       <div id="vcomments-wrapper">
-        <div id="vcomments"></div>
+        <div id="vcomments" class="container px-xxl-5"></div>
         <script>
             new Valine({
                 el: '#vcomments',
@@ -50,11 +50,18 @@ layout: compress
       </div>
 
       <style>
+         @media (min-width: 1080px) {
+          #vcomments-wrapper {
+            margin-top: -0.5%;
+            margin-bottom: 4%;
+          }
+        }
+
         #vcomments-wrapper {
           margin-top: -0.5%;
           margin-bottom: 4%;
-          margin-left: 21%;
-          margin-right: 23.7%
+          margin-left: 19%;
+          margin-right: 22%
         }
 
         #vcomments {
