@@ -1,5 +1,6 @@
 # My Blog 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/zoooooone/zoooooone.github.io?label=activity"> <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zoooooone/Zoooooone.github.io/main"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zoooooone/zoooooone.github.io"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/zoooooone/zoooooone.github.io"> <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/zoooooone/zoooooone.github.io/github-pages">
+
 This is my customized blog based on the **[Chirpy jekyll theme](https://github.com/cotes2020/jekyll-theme-chirpy)**. Here is the link to **[my blog](https://zoooooone.github.io/)**.
 
 # Purpose
@@ -21,5 +22,5 @@ To record study notes and daily life, and enjoy the process of building a blog a
 - Added the function of sharing blog posts to QQ and Weibo. For details, please see `_data/share.yml`.
 
 # Start-up
-1. install **ruby** and **jekyll**, the tutorial is **[here](https://jekyllrb.com/docs/installation/)**.
+1. Install **ruby** and **jekyll**, the tutorial is **[here](https://jekyllrb.com/docs/installation/)**.
 2. And then read the **[tutorial](https://chirpy.cotes.page/posts/getting-started/)** of jekyll theme **Chirpy**.
