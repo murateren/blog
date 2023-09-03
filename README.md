@@ -11,6 +11,7 @@ To record study notes and daily life, and to enjoy the process of building a blo
 - ...
 
 # Personalized contents
+## Display
 - **Customized** color display for both light and dark theme. For details, please see  `_sass/colors/dark-typography.scss` and `_sass/colors/light-typography.scss`. 
 - **Customized** syntax highlighting for light theme by overwriting `_sass/colors/light-syntax.scss`.
 - **Changed** hover behavior (color) of buttons in `_sass/addon/commons.scss`. Details:
@@ -22,6 +23,7 @@ To record study notes and daily life, and to enjoy the process of building a blo
     }
   } 
   ``` 
+## New functions
 - **Added** support for **[Valine](https://valine.js.org/)** comment system in addition to Disqus, Utterances, and Giscus. For details, please see `_layouts/page.html`.
 - **Added** badges in the footer describing the status of the blog repository. 
   - For details, please see `_includes/footer.html` and `footer` CSS ruleset in `_sass/addon/commons.scss`. 
