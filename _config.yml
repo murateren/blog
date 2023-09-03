@@ -20,7 +20,7 @@ timezone:
 
 title: Zone's blog # the main title
 
-tagline: Used for recording daily life and learning reflections. # it will display as the sub-title
+tagline: Daily life records and study notes. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -41,11 +41,11 @@ social:
   email: ziheng-chen@isi.imi.i.u-tokyo.ac.jp # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/ziheng-chen-572356285/
 
 google_site_verification: # fill in to your verification string
 
