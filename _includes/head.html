@@ -76,8 +76,12 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-  <!-- Valine -->
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <!-- Waline -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+  />
+  <script src="https://unpkg.com/mathjax@v3/es5/tex-svg.js"></script>
 
   {% if site.toc and page.toc %}
     <link rel="stylesheet" href="{{ site.data.origin[type].toc.css | relative_url }}">
