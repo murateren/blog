@@ -47,5 +47,5 @@ order: 4
 </div>
 
 # Contact
-- <i class="fa-regular fa-envelope fa-fw"></i> &ensp; ziheng-chen@isi.imi.i.u-tokyo.ac.jp
-- <i class="fa-brands fa-linkedin fa-fw"></i> &ensp; [Linkedin](https://www.linkedin.com/in/ziheng-chen-572356285/)
+- <i class="fa-regular fa-envelope fa-fw"></i> &ensp; murate@gmail.com
+- <i class="fa-brands fa-linkedin fa-fw"></i> &ensp; [Linkedin](https://www.linkedin.com/in/murateren/)
