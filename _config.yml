@@ -10,7 +10,7 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: zh
+lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: 
@@ -18,34 +18,34 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zone's blog # the main title
+title: Murat's blog # the main title
 
-tagline: Daily life records and study notes. # it will display as the sub-title
+tagline: Daily life records. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://zoooooone.github.io"
+url: "https://murateren.github.io"
 
 github:
-  username: Zoooooone # change to your github username
+  username: murateren # change to your github username
 
 twitter:
-  username: # change to your twitter username
+  username: erenm # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ziheng Chen
-  email: ziheng-chen@isi.imi.i.u-tokyo.ac.jp # change to your email address
+  name: Murat Eren
+  email: murate@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/murateren # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ziheng-chen-572356285/
+    - https://www.linkedin.com/in/murateren/
 
 google_site_verification: # fill in to your verification string
 
