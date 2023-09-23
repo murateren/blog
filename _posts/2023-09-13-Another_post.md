@@ -75,14 +75,6 @@ URL：[Link](https://www.google.com/maps/d/u/1/edit?mid=1NQWqEdIBg6aOj-uOvVdCmDt
     <img src="lunch_day2.jpg" alt="lunch_day2" />
 </div>
 
-### Subsection
-- Text: **31 (text: 6, text: 25)**
-- 酒店住宿: **347630**
-- 包车: **226000**
-- 第二天午饭: **56090**
-- 美术馆门票: **25300 (普通票: 1300, 大学生: 700)**
-- 合计: **655020**
-
 <br>
 
 Text
