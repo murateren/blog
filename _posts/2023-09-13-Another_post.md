@@ -52,10 +52,10 @@ URL：[Link](https://www.google.com/maps/d/u/1/edit?mid=1NQWqEdIBg6aOj-uOvVdCmDt
 
 ### Subsection
 <div class="image-container">
-    <img src="jogasaki1.jpg" alt="城崎海岸 1" />
-    <img src="jogasaki2.jpg" alt="城崎海岸 2" />
-    <img src="jogasaki3.jpg" alt="城崎海岸 3" />
-    <img src="jogasaki4.jpg" alt="城崎海岸 4" />
+    <img src="jogasaki1.jpg" alt="1" />
+    <img src="jogasaki2.jpg" alt="2" />
+    <img src="jogasaki3.jpg" alt="3" />
+    <img src="jogasaki4.jpg" alt="4" />
 </div>
 
 ### Subsection

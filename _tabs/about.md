@@ -47,5 +47,5 @@ order: 4
 </div>
 
 # Contact
-- <i class="fa-regular fa-envelope fa-fw"></i> &ensp; murate@gmail.com
+- <i class="fa-regular fa-envelope fa-fw"></i> &ensp; [murate@gmail.com](mailto:murate@gmail.com)
 - <i class="fa-brands fa-linkedin fa-fw"></i> &ensp; [Linkedin](https://www.linkedin.com/in/murateren/)
